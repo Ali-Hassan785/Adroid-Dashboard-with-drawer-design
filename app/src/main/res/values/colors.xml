@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#6200EE</color>
-    <color name="colorPrimaryDark">#3700B3</color>
-    <color name="colorAccent">#03DAC5</color>
+    <color name="colorPrimary">#885d33</color>
+    <color name="colorPrimaryDark">#010101</color>
+    <color name="colorAccent">#aaa439</color>
+    <color name="share">#526699</color>
+    <color name="exitapp">#0a3462</color>
+
 </resources>
